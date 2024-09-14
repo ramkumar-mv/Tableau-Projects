@@ -1,6 +1,6 @@
 # Tableau Projects
 
-This repository contains interactive visualizations built using Tableau Public.
+Welcome to my collection of Tableau dashboards! This repository contains interactive visualizations built using Tableau Public.
 
 ## Project List
 
